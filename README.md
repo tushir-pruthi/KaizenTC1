@@ -1,6 +1,6 @@
 
 
-
+Tushir and Chnmoy are working on Kaizen
 
 
 iuiui[![Build Status](https://travis-ci.org/k-tamura/easybuggy.svg?branch=master)](https://travis-ci.org/k-tamura/easybuggy)
